@@ -1,5 +1,5 @@
 <h1 align="center">Hello!</h1>
-<h2 align="center">Nice to meet you</h2>
+<h2 align="center">Nice to meet you there</h2>
 <h3>
 <li>I'am python and c# student👤</li>
 <li>Love anime and video games💜</li>
