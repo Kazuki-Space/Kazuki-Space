@@ -5,4 +5,4 @@
 <li>Love anime and video games💜</li>
 <li>Have a nice Day⭐</li>
 </h3>
-![text](https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif)
+![https://media.giphy.com/media/LML5ldpTKLPelFtBfY/giphy.gif]()
