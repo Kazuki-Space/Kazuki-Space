@@ -6,5 +6,4 @@
 <li>Have a nice Day⭐</li>
 </h3>
 
-![giphy]([https://github.com/Kazuki-Space/Kazuki-Space/assets/110049604/5b441563-7511-4afd-8422-88dddf48aabf](https://media.giphy.com/media/pJkU8QIbZmdO84fdif/giphy.gif)https://media.giphy.com/media/pJkU8QIbZmdO84fdif/giphy.gif)
-
+![giphy (1)](https://github.com/Kazuki-Space/Kazuki-Space/assets/110049604/add4f695-5d04-4d59-949c-fe3e420a2df9)
