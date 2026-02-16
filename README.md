@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 <h2 align="center">Nice to meet you there</h2>
 <h3>
-<li>I'am python and c# student👤</li>
+<li>I'am learning python and c#👤</li>
 <li>Love anime and video games💜</li>
 <li>Have a nice Day⭐</li>
 </h3>
